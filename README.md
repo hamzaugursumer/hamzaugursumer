@@ -2,7 +2,9 @@
 
 🔭 I’m currently working on Data Analysis<br>
 
-🌱 I’m currently learning SQL, Python and visualization tools.<br>💬 I am improving myself in database querying using SQL, <br>data preprocessing, and visualization using Python, <br>and understanding and storytelling with data using visualization tools.<br>
+🌱 I’m currently learning SQL, Python and visualization tools.<br>
+
+💬 I am improving myself in database querying using SQL, <br>data preprocessing, and visualization using Python, <br>and understanding and storytelling with data using visualization tools.<br>
 
 ⚡ The software I use are PostgreSQL, Python, and PowerBI.<br>
 
