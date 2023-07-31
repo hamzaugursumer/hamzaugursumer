@@ -13,7 +13,6 @@
 ⚡The libraries I use for data analysis in Python are numpy, pandas, seaborn, and matplotlib.<br><br><br><br><br>
 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaugursumer/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hamzaugursumer)
