@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-⚡ I’m currently working on Data Analysis<br>
+⚡ I’m currently working on Data Analysis.<br>
 
 ⚡ I’m currently learning SQL, Python and visualization tools.<br>
 
