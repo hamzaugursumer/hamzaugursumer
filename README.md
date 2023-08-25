@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+<img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" />
+
 <img width="55%" align="right" alt="Github" src = "https://img.freepik.com/free-vector/visual-data-concept-illustration_114360-1713.jpg?w=740&t=st=1692960241~exp=1692960841~hmac=3ffed25d1f21b29dd896af63ce0eda7076622405917a3397925f4596a9a89105" />
 
 
@@ -47,4 +49,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamzaugursumer&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaugursumer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" />
