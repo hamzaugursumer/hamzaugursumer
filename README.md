@@ -38,7 +38,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaugursumer@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hamzaugursumer?hr_r=1)
 
-<img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" alt="GIF 2" width="200" height="200"> <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" width="200" height="200"> <img src="https://media.giphy.com/media/8gNQZ9IpkcdiAjfOgN/giphy.gif" width="200" height="200"> <img src="https://media.giphy.com/media/8gNQZ9IpkcdiAjfOgN/giphy.gif" alt="GIF 2" width="200" height="200">
+<img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" alt="GIF 2" width="200" height="200"> <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" width="200" height="200"> <img src="https://media.giphy.com/media/8gNQZ9IpkcdiAjfOgN/giphy.gif" width="200" height="200"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY3a3pheGVjZzU1MG9wcDN5amJtb2hscDkwNXByZWR6cnN5dzZoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6wa5vuYvetU1Jibm13/giphy.gif" width="200" height="200">
 
 
 
