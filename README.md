@@ -4,49 +4,30 @@
 # 💫 About Me:
 
 ## Education and Background:
-<div style="display: flex; align-items: center;">
-    <img src="https://i.pinimg.com/564x/08/e8/71/08e871bdae871f9bbd6a1e7b9a350f2d.jpg" alt="Profile Image" width="100px">
-    <ul style="margin-left: 10px;">
-        <li>Graduated from Sakarya University, Department of Econometrics.</li>
-        <li>Processed financial data using econometric analysis methods.</li>
-        <li>Developed skills in interpreting data and gaining insights from it.</li>
-    </ul>
-</div>
+- :rocket: Graduated from Sakarya University, Department of Econometrics.
+- :rocket: Processed financial data using econometric analysis methods.
+- :rocket: Developed skills in interpreting data and gaining insights from it.
 
 ## Career Goals and Focus:
-<div style="display: flex; align-items: center;">
-    <img src="link_to_your_image" alt="Profile Image" width="100px">
-    <ul style="margin-left: 10px;">
-        <li>Pursuing a career in the field of data analysis.</li>
-        <li>Striving to enhance expertise in various data analysis domains.</li>
-        <li>Emphasizing Specific Points:</li>
-        <ul style="margin-left: 20px;">
-            <li>Querying databases using SQL.</li>
-            <li>Data processing and analysis using Python.</li>
-            <li>Visualizing and interpreting data using Power BI.</li>
-            <li>Learning and applying data storytelling techniques.</li>
-            <li>Exploring different data visualization tools.</li>
-        </ul>
-    </ul>
-</div>
+- :rocket: Pursuing a career in the field of data analysis.
+- :rocket: Striving to enhance expertise in various data analysis domains.
+- - :rocket: Emphasizing Specific Points:
+  - Querying databases using SQL.
+  - Data processing and analysis using Python.
+  - Visualizing and interpreting data using Power BI.
+  - Learning and applying data storytelling techniques.
+  - Exploring different data visualization tools.
 
 ## Project Development and Solutions:
-<div style="display: flex; align-items: center;">
-    <img src="link_to_your_image" alt="Profile Image" width="100px">
-    <ul style="margin-left: 10px;">
-        <li>Participated in projects to create data-driven solutions.</li>
-        <li>Experienced in conveying complex information understandably.</li>
-        <li>Excel at communicating knowledge impactfully.</li>
-        <li>Aim to assist in making informed decisions based on data.</li>
-        <li>Most commonly use numpy, pandas, seaborn, and matplotlib for data analysis.</li>
-    </ul>
-</div>
+- :rocket: Participated in projects to create data-driven solutions.
+- :rocket: Experienced in conveying complex information understandably.
+- :rocket: Excel at communicating knowledge impactfully.
+- :rocket: Aim to assist in making informed decisions based on data.
+- :rocket: Most commonly use numpy, pandas, seaborn, and matplotlib for data analysis.
 
 ## Financial Interest:
-<div style="display: flex; align-items: center;">
-    <img src="link_to_your_image" alt="Profile Image" width="100px">
-    <p>Continuously interested in financial instruments and capital market activities.</p>
-</div>
+- :rocket: Continuously interested in financial instruments and capital market activities.
+
 
 
 
