@@ -5,7 +5,7 @@
 
 
 ## Education and Background:
-- :rocket: Graduated from Sakarya University, Department of Econometrics.
+- :rocket: Graduated from Sakarya University, Department of Econometrics (Bachelor's degree).
 - :rocket: Processed financial data using econometric analysis methods.
 - :rocket: Developed skills in interpreting data and gaining insights from it.
 
