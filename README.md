@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img width="55%" align="right" alt="Github" src="<a href="https://www.freepik.com/free-vector/visual-data-concept-illustration_7504550.htm#query=data%20analysis&position=8&from_view=search&track=ais">Image by storyset</a> on Freepik" />
+<img width="55%" align="right" alt="Github" src = "https://img.freepik.com/free-vector/visual-data-concept-illustration_114360-1713.jpg?w=740&t=st=1692960241~exp=1692960841~hmac=3ffed25d1f21b29dd896af63ce0eda7076622405917a3397925f4596a9a89105" />
 
 
 ## Education and Background:
