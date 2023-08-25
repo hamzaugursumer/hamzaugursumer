@@ -5,7 +5,7 @@
 
 ## Education and Background:
 <div style="display: flex; align-items: center;">
-    <img src=[link_to_your_image](https://i.pinimg.com/564x/08/e8/71/08e871bdae871f9bbd6a1e7b9a350f2d.jpg)] alt="Profile Image" width="100px">
+    <img src="https://i.pinimg.com/564x/08/e8/71/08e871bdae871f9bbd6a1e7b9a350f2d.jpg" alt="Profile Image" width="100px">
     <ul style="margin-left: 10px;">
         <li>Graduated from Sakarya University, Department of Econometrics.</li>
         <li>Processed financial data using econometric analysis methods.</li>
