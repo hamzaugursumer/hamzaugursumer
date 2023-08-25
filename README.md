@@ -11,7 +11,7 @@
 ## Career Goals and Focus:
 - :rocket: Pursuing a career in the field of data analysis.
 - :rocket: Striving to enhance expertise in various data analysis domains.
-- - :rocket: Emphasizing Specific Points:
+- :rocket: Emphasizing Specific Points:
   - Querying databases using SQL.
   - Data processing and analysis using Python.
   - Visualizing and interpreting data using Power BI.
