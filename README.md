@@ -38,8 +38,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaugursumer@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hamzaugursumer?hr_r=1)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2MwYzJmc2VlNmV0M2ppZDM2b3dubWJicThxOHU5OTB2Y2hrbzdpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IYP9Xr6EX4xRnG1HRW/giphy.gif" width="500" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI5cjFnamZwMGVxNDBvcGVmMmt5YnFkbjZneDE2cWFlaDV1Y2ZqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VHI6svvhu5xuqzyAoM/giphy.gif" width="500" />
-
+<img src="https://64.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gifv" alt="GIF 2" width="200" height="200">
 
 
 
