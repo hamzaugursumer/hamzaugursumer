@@ -1,8 +1,5 @@
 # 💫 About Me:
 
-
-# 💫 About Me:
-
 ## Education and Background:
 - :rocket: Graduated from Sakarya University, Department of Econometrics.
 - :rocket: Processed financial data using econometric analysis methods.
