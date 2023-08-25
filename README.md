@@ -4,27 +4,41 @@
 **Education and Background:**
 
 :rocket: I graduated from Sakarya University, Department of Econometrics.
+
 :rocket: I processed financial data using econometric analysis methods.
+
 :rocket: I developed skills in interpreting data and gaining insights from it.
 
 **Career Goals and Focus:**
 
 :rocket: I am pursuing a career in the field of data analysis.
+
 :rocket: I am striving to enhance my expertise in various data analysis domains.
+
 :rocket: Specific points I emphasize:
+
 :rocket: Querying databases using SQL.
+
 :rocket: Data processing and analysis using Python.
+
 :rocket: Visualizing and interpreting data using Power BI.
+
 :rocket: Learning and applying data storytelling techniques.
+
 :rocket: Exploring different data visualization tools.
 
 **Project Development and Solutions:**
 
 :rocket: I have participated in projects to create data-driven solutions.
+
 :rocket: I have experience in conveying complex information in an understandable manner.
+
 :rocket: I excel in communicating knowledge in an impactful way.
+
 :rocket: My aim is to assist in making informed decisions based on data.
+
 :rocket: The libraries I most commonly use for data analysis are numpy, pandas, seaborn, and matplotlib.".<br><br><br><br><br>
+
 **Financial Interest:**
 
 :rocket: My interest in financial instruments and capital market activities continues."
