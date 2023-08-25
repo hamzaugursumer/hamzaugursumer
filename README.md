@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-<img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" />
 
 <img width="55%" align="right" alt="Github" src = "https://img.freepik.com/free-vector/visual-data-concept-illustration_114360-1713.jpg?w=740&t=st=1692960241~exp=1692960841~hmac=3ffed25d1f21b29dd896af63ce0eda7076622405917a3397925f4596a9a89105" />
 
@@ -38,6 +37,11 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hamzaugursumer)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaugursumer@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hamzaugursumer?hr_r=1)
+
+
+<img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" />
+
+
 
 
 # 💻 Tech Stack:
