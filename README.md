@@ -43,6 +43,13 @@
 
 
 
+<img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" />
+
+
+
+
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=hamzaugursumer&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamzaugursumer&theme=radical&hide_border=false)<br/>
