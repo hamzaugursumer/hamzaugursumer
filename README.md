@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="[https://img.freepik.com/premium-vector/programmer-is-tired-work-development-programming-coding-technologies-low-battery_569013-382.jpg?w=826](https://i.pinimg.com/564x/19/5d/9b/195d9b6bbef9fd90a12cb319364ef716.jpg)" />
+<img width="55%" align="right" alt="Github" src="<a href="https://www.freepik.com/free-vector/visual-data-concept-illustration_7504550.htm#query=data%20analysis&position=8&from_view=search&track=ais">Image by storyset</a> on Freepik" />
+
 
 ## Education and Background:
 - :rocket: Graduated from Sakarya University, Department of Econometrics.
