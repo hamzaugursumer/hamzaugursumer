@@ -1,47 +1,53 @@
 # 💫 About Me:
 
 
-**Education and Background:**
+# 💫 About Me:
 
-:rocket: I graduated from Sakarya University, Department of Econometrics.
+## Education and Background:
+<div style="display: flex; align-items: center;">
+    <img src="[link_to_your_image](https://i.pinimg.com/564x/08/e8/71/08e871bdae871f9bbd6a1e7b9a350f2d.jpg)" alt="Profile Image" width="100px">
+    <ul style="margin-left: 10px;">
+        <li>Graduated from Sakarya University, Department of Econometrics.</li>
+        <li>Processed financial data using econometric analysis methods.</li>
+        <li>Developed skills in interpreting data and gaining insights from it.</li>
+    </ul>
+</div>
 
-:rocket: I processed financial data using econometric analysis methods.
+## Career Goals and Focus:
+<div style="display: flex; align-items: center;">
+    <img src="link_to_your_image" alt="Profile Image" width="100px">
+    <ul style="margin-left: 10px;">
+        <li>Pursuing a career in the field of data analysis.</li>
+        <li>Striving to enhance expertise in various data analysis domains.</li>
+        <li>Emphasizing Specific Points:</li>
+        <ul style="margin-left: 20px;">
+            <li>Querying databases using SQL.</li>
+            <li>Data processing and analysis using Python.</li>
+            <li>Visualizing and interpreting data using Power BI.</li>
+            <li>Learning and applying data storytelling techniques.</li>
+            <li>Exploring different data visualization tools.</li>
+        </ul>
+    </ul>
+</div>
 
-:rocket: I developed skills in interpreting data and gaining insights from it.
+## Project Development and Solutions:
+<div style="display: flex; align-items: center;">
+    <img src="link_to_your_image" alt="Profile Image" width="100px">
+    <ul style="margin-left: 10px;">
+        <li>Participated in projects to create data-driven solutions.</li>
+        <li>Experienced in conveying complex information understandably.</li>
+        <li>Excel at communicating knowledge impactfully.</li>
+        <li>Aim to assist in making informed decisions based on data.</li>
+        <li>Most commonly use numpy, pandas, seaborn, and matplotlib for data analysis.</li>
+    </ul>
+</div>
 
-**Career Goals and Focus:**
+## Financial Interest:
+<div style="display: flex; align-items: center;">
+    <img src="link_to_your_image" alt="Profile Image" width="100px">
+    <p>Continuously interested in financial instruments and capital market activities.</p>
+</div>
 
-:rocket: I am pursuing a career in the field of data analysis.
-
-:rocket: I am striving to enhance my expertise in various data analysis domains.
-
-:rocket: Specific points I emphasize:
-
-:rocket: Querying databases using SQL.
-
-:rocket: Data processing and analysis using Python.
-
-:rocket: Visualizing and interpreting data using Power BI.
-
-:rocket: Learning and applying data storytelling techniques.
-
-:rocket: Exploring different data visualization tools.
-
-**Project Development and Solutions:**
-
-:rocket: I have participated in projects to create data-driven solutions.
-
-:rocket: I have experience in conveying complex information in an understandable manner.
-
-:rocket: I excel in communicating knowledge in an impactful way.
-
-:rocket: My aim is to assist in making informed decisions based on data.
-
-:rocket: The libraries I most commonly use for data analysis are numpy, pandas, seaborn, and matplotlib.".<br><br><br><br><br>
-
-**Financial Interest:**
-
-:rocket: My interest in financial instruments and capital market activities continues."
 
 
 ## 🌐 Socials:
