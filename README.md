@@ -1,5 +1,8 @@
 # 💫 About Me:
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://img.freepik.com/premium-vector/programmer-is-tired-work-development-programming-coding-technologies-low-battery_569013-382.jpg?w=826" />
+
 ## Education and Background:
 - :rocket: Graduated from Sakarya University, Department of Econometrics.
 - :rocket: Processed financial data using econometric analysis methods.
