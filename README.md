@@ -1,16 +1,35 @@
 # 💫 About Me:
 
-⚡ I’m currently working on Data Analysis.<br>
 
-⚡ I’m currently learning SQL, Python and visualization tools.<br>
+**Education and Background:**
 
-⚡ I am improving myself in database querying using SQL, <br>data preprocessing, and visualization using Python, <br>and understanding and storytelling with data using visualization tools.<br>
+:rocket: I graduated from Sakarya University, Department of Econometrics.
+:rocket: I processed financial data using econometric analysis methods.
+:rocket: I developed skills in interpreting data and gaining insights from it.
 
-⚡ The software I use are PostgreSQL, Python, and PowerBI.<br>
+**Career Goals and Focus:**
 
-⚡I am a graduate in econometrics, and I have conducted analyses <br>on financial data, particularly focusing on time series, using software such as Eviews and STATA.<br>
+:rocket: I am pursuing a career in the field of data analysis.
+:rocket: I am striving to enhance my expertise in various data analysis domains.
+:rocket: Specific points I emphasize:
+:rocket: Querying databases using SQL.
+:rocket: Data processing and analysis using Python.
+:rocket: Visualizing and interpreting data using Power BI.
+:rocket: Learning and applying data storytelling techniques.
+:rocket: Exploring different data visualization tools.
 
-⚡The libraries I use for data analysis in Python are numpy, pandas, seaborn, and matplotlib.<br><br><br><br><br>
+**Project Development and Solutions:**
+
+:rocket: I have participated in projects to create data-driven solutions.
+:rocket: I have experience in conveying complex information in an understandable manner.
+:rocket: I excel in communicating knowledge in an impactful way.
+:rocket: My aim is to assist in making informed decisions based on data.
+:rocket: The libraries I most commonly use for data analysis are numpy, pandas, seaborn, and matplotlib.".<br><br><br><br><br>
+**Financial Interest:**
+
+:rocket: My interest in financial instruments and capital market activities continues."
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaugursumer/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hamzaugursumer)
